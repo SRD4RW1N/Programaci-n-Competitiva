@@ -1,2 +1,2 @@
-# Programaci-n-Competitiva
-Ejercicios resueltos por Darwin Portillo: SRD4RW1N
+# Programacion-Competitiva
+By: SRD4RW1N
